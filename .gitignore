@@ -1,1 +1,4 @@
 .env
+.vscode
+node_modules
+moogle_manager.md
