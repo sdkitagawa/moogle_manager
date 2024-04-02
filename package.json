@@ -1,5 +1,5 @@
 {
-  "name": "moogle_manager",
+  "name": "discord-bot",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1",
+    "discord.js": "^14.7.1",
     "dotenv": "^16.4.5"
   }
 }
