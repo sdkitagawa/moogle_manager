@@ -13,5 +13,6 @@ const client = new Client({
 });
 
 eventHandler(client);
+webRequest();
 
 client.login(process.env.MOOGLE_TICKET);
