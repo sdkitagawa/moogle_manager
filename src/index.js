@@ -1,7 +1,7 @@
 require('dotenv').config();
 const { Client, IntentsBitField } = require('discord.js');
 const eventHandler = require('./handlers/event_handler');
-const keepAlive = require('../keep_alive');
+const webRequest = require('../http_request');
 
 const client = new Client({
   intents: [
