@@ -8,15 +8,15 @@ module.exports = (client) => {
   let botStatus = [
     {
       name: "Moogle's Tasks",
-      type: ActivityType.Playing,
+      type: ActivityType.Playing
     },
     {
       name: "The Legend of DK and Friends",
-      type: ActivityType.Watching,
+      type: ActivityType.Watching
     },
     {
       name: "Lion Dance",
-      type: ActivityType.Listening,
+      type: ActivityType.Listening
     },
   ]
 

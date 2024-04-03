@@ -1,11 +1,10 @@
-# Default code owners
+# Default owners
 @sdkitagawa
 @snkitagawa
 
 # Pull request touching javascript files
-README.md @sdkitagawa
-*.js    @sdkitagawa
-*.js    @snkitagawa
+*.js    @sdkitagawa @github/js
+*.js    @snkitagawa @github/js
 
 # Pull request touching avatar folder
-avatar/ @sdkitagawa
+avatar/ dk.software@engineer.com

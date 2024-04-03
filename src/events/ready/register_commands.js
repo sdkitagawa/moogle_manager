@@ -32,7 +32,7 @@ module.exports = async (client) => {
         if (differentChecker(existingCommand, localCommand)) {
           await applicationCommands.edit(existingCommand.id, {
             description,
-            options,
+            options
           });
 
           console.log(`Edited command: "${name}". 🔁`);
@@ -48,7 +48,7 @@ module.exports = async (client) => {
         await applicationCommands.create({
           name,
           description,
-          options,
+          options
         });
 
         console.log(`Registered command: "${name}." ✍🏻`);
