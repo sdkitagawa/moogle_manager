@@ -2,9 +2,5 @@
 @sdkitagawa
 @snkitagawa
 
-# Pull request touching javascript files
-*.js    @sdkitagawa @github/js
-*.js    @snkitagawa @github/js
-
 # Pull request touching avatar folder
 avatar/ dk.software@engineer.com
