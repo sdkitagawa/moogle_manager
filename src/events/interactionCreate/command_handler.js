@@ -19,7 +19,7 @@ module.exports = async (client, interaction) => {
 
     if (commandObject.devOnly) {
       if (!developerUser.includes(interaction.member.id)) {
-        interaction.reply({
+        await interaction.deferReply({
           content: 'Only developers are allowed to run this command.',
           ephemeral: true
         });
@@ -29,7 +29,7 @@ module.exports = async (client, interaction) => {
 
     if (commandObject.testOnly) {
       if (!(interaction.guild.id === betaTest)) {
-        interaction.reply({
+        await interaction.deferReply({
           content: 'This command cannot be ran here.',
           ephemeral: true
         });
@@ -40,7 +40,7 @@ module.exports = async (client, interaction) => {
     if (commandObject.permissionsRequired?.length) {
       for (const permission of commandObject.permissionsRequired) {
         if (!interaction.member.permissions.has(permission)) {
-          interaction.reply({
+          await interaction.deferReply({
             content: 'Not enough permissions.',
             ephemeral: true
           });
@@ -54,7 +54,7 @@ module.exports = async (client, interaction) => {
         const bot = interaction.guild.members.me;
 
         if (!bot.permissions.has(permission)) {
-          interaction.reply({
+          await interaction.deferReply({
             content: "I don't have enough permissions.",
             ephemeral: true
           });
