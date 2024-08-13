@@ -1,4 +1,4 @@
-# Moogle Manager Information
+# Moogle Manager
 
 <p align=center>
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="A white Moogle flying holding items on his left hand, and a letter and on his right hand DK and friends agenda. The Moogle is also wearing an ID that says Manager. He has blush on his cheeks and has an antenna with a red orb on top of his antenna." loading="lazy" />
@@ -13,6 +13,11 @@
 [Technologies](#technologies)<br />
 [Dependencies](#dependencies)<br />
 [Bot Commands](#bot-commands)<br />
+[Contact & Business Inquiries](#contact--business-inquiries)<br />
+[License](#license)<br />
+<br />
+
+![Build Passing](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
 </center>
@@ -90,3 +95,15 @@ Invite the Moogle Manager to your server!
 - `katakana`: Tells the story of Katakana.
 - `okurigana`: Explains what Okurigana is.
 - `translate`: Translates texts using Google Translate API.
+<br /><br />
+
+# Contact & Business Inquiries
+### **Learn more about me at:**
+- ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
+- 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
+- 👨🏻‍💻 [**Github**](https://github.com/sdkitagawa)
+- 📺 [**Youtube**](https://www.youtube.com/@dkitagawa)
+- 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
+
+# License
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - Licensed under [GNU General Public License v3.0](./LICENSE)

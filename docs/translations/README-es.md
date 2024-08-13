@@ -1,4 +1,4 @@
-# Moogle Manager Information
+# Moogle Manager
 
 <p align=center>
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="Un Moogle blanco volador sostiene una carta en la mano izquierda y la agenda DK & Friends en la derecha. El Moogle también lleva una identificación que dice Gestor. Tiene las mejillas sonrojadas y una antena con un globo rojo en la parte superior." loading="lazy" />
@@ -13,6 +13,11 @@
 [Tecnologías](#tecnologías)<br />
 [Dependencias](#dependencias)<br />
 [Comandos Bot](#comandos-bot)<br />
+[Contacto y Consultas Comerciales](#contacto-y-consultas-comerciales)<br />
+[Licensia](#licencia)<br />
+<br />
+
+![Superando las Pruebas](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
 </center>
@@ -90,3 +95,15 @@ Invita a Moogle Manager a tu servidor
 - `katakana`: Cuenta la historia del katakana.
 - `okurigana`: Explique qué es Okurigana.
 - `translate`: Traduce textos utilizando la API de Google Translate.
+<br /><br />
+
+# Contacto y Consultas Comerciales
+### **Learn more about me at:**
+- ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
+- 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
+- 👨🏻‍💻 [**Github**](https://github.com/sdkitagawa)
+- 📺 [**Youtube**](https://www.youtube.com/@dkitagawa)
+- 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
+
+# Licencia
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - Con licensia [GNU General Public License v3.0](../../LICENSE)

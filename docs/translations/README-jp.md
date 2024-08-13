@@ -13,6 +13,10 @@
 [テクノロジ](#テクノロジ)<br />
 [依存関係](#依存関係)<br />
 [ボットコマンド](#ボットコマンド)<br />
+[連絡先およびビジネスに関するお問い合わせ](#連絡先およびビジネスに関するお問い合わせ)<br />
+<br />
+
+![Superando las Pruebas](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
 </center>
@@ -90,3 +94,15 @@ Moogle Manager をサーバに招待します！
 - `katakana`: カタカナの物語をお伝えします。
 - `okurigana`: オクリガナが何であるかを説明します。
 - `translate`: Google Translate API を使用してテキストを変換します。
+<br /><br />
+
+# 連絡先およびビジネスに関するお問い合わせ
+### **肉についてもっと知ることができます:**
+- ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
+- 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
+- 👨🏻‍💻 [**Github**](https://github.com/sdkitagawa)
+- 📺 [**Youtube**](https://www.youtube.com/@dkitagawa)
+- 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
+
+# License
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - [GNU General Public License v3.0](../../LICENSE)でライセンスが付与されました
