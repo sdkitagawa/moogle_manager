@@ -106,4 +106,4 @@ Invita a Moogle Manager a tu servidor
 - 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
 
 # Licencia
-Copyright © Douglas Kitagawa's (dkitagawa's) Development - Con licensia [GNU General Public License v3.0](../../LICENSE)
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - Con licensia [GNU General Public License v3.0](../../LICENSE.bib)

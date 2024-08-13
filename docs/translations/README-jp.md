@@ -105,4 +105,4 @@ Moogle Manager をサーバに招待します！
 - 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
 
 # License
-Copyright © Douglas Kitagawa's (dkitagawa's) Development - [GNU General Public License v3.0](../../LICENSE)でライセンスが付与されました
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - [GNU General Public License v3.0](../../LICENSE.bib)でライセンスが付与されました
