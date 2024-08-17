@@ -21,8 +21,8 @@
 </center>
 
 <p align="center">
-  <a href="#" title="Build Passing"><img src="https://img.shields.io/badge/build-passing-brightgreen">
-  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="LICENSE"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667">
+  <a href="#" title="Build Passing"><img src="https://img.shields.io/badge/build-passing-brightgreen"></a>
+  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="LICENSE"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667"></a>
   <a href="https://www.javascript.com/" title="Go to JavaScript homepage"><img src="https://img.shields.io/badge/Made_with-JavaScript-yellow?logo=javascript&logoColor=white" alt="Made with JavaScript"></a>
   <a href="https://nodejs.org" title="Go to Node.js homepage"><img src="https://img.shields.io/badge/Node.js-%3E=18-green?logo=node.js&logoColor=white" alt="Made with Node.js"></a>
   <a href="https://www.mongodb.com/" title="Go to MongoDB homepage"><img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="Made with MongoDB"></a>
