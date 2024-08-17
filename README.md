@@ -8,8 +8,8 @@
 </p>
 <br />
 
-<a href ="#application-information"><p align="center">Application Information</p></a>
-<a href ="#brief"><p align="center">Brief</p></a>
+<a href="#application-information"><p align="center">Application Information</p></a>
+<a href="#brief"><p align="center">Brief</p></a>
 <a href="#invite-to-your-server"><p align="center">Invite to Your Server</p></a>
 <a href="#technologies"><p align="center">Technologies</p></a>
 <a href="#dependencies"><p align="center">Dependencies</p></a>
