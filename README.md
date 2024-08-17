@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<a href="#application-information"><p align="center">Application Information</p></a>
+<a href="information"><p align="center">App Information</p></a>
 <a href="#brief"><p align="center">Brief</p></a>
 <a href="#invite-to-your-server"><p align="center">Invite to Your Server</p></a>
 <a href="#technologies"><p align="center">Technologies</p></a>
@@ -40,7 +40,7 @@ Translations
 </details>
 <br />
 
-## Application Information
+## Information
 - **Name**: [`Moogle Manager`**#1172**](https://discord.com/users/1221986587399815198/)
 - **Recommended Role Color**: `#F185B5`
 <br /><br />
