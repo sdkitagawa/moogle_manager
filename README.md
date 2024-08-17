@@ -17,7 +17,6 @@
 <a href="#license"><p align="center">License</p></a>
 
 <br /><br />
-</center>
 
 <p align="center">
   <a href="#" title="Build Passing"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="An image of a half gray (left side) and green (right side) to indicate that the build of the application is passing"></a>
