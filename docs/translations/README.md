@@ -1,26 +1,30 @@
-# Moogle Manager
+<h1 align="center">
+    Moogle Manager
+    <br />
+</h1>
 
 <p align=center>
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="A white Moogle flying holding items on his left hand, and a letter and on his right hand DK and friends agenda. The Moogle is also wearing an ID that says Manager. He has blush on his cheeks and has an antenna with a red orb on top of his antenna." loading="lazy" />
 </p>
-<br />
 
-<center>
+<a href="#application-information"><p align="center">Application Information</p></a>
+<a href="#brief"><p align="center">Brief</p></a>
+<a href="#invite-to-your-server"><p align="center">Invite to Your Server</p></a>
+<a href="#technologies"><p align="center">Technologies</p></a>
+<a href="#dependencies"><p align="center">Dependencies</p></a>
+<a href="#bot-commands"><p align="center">Bot Commands</p></a>
+<a href="#contact"><p align="center">Contact</p></a>
+<a href="#license"><p align="center">License</p></a>
 
-[Application Information](#application-information)<br />
-[Brief](#brief)<br />
-[Invite to your Server](#invite-to-your-server)<br />
-[Technologies](#technologies)<br />
-[Dependencies](#dependencies)<br />
-[Bot Commands](#bot-commands)<br />
-[Contact & Business Inquiries](#contact--business-inquiries)<br />
-[License](#license)<br />
-<br />
-
-![Build Passing](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
-</center>
+<p align="center">
+  <a href="#" title="Build Passing"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="An image of a half gray (left side) and green (right side) to indicate that the build of the application is passing"></a>
+  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="LICENSE"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667" alt="An image of a half gray (left side) and half orange (right side) to indicate which license the project is under"></a>
+  <a href="https://www.javascript.com/" title="Go to JavaScript homepage"><img src="https://img.shields.io/badge/Made_with-JavaScript-yellow?logo=javascript&logoColor=white" alt="An image of a half gray (left side) and half orange (right side) to indicate that this project was built using JavaScript"></a>
+  <a href="https://nodejs.org" title="Go to Node.js homepage"><img src="https://img.shields.io/badge/Node.js-%3E=18-green?logo=node.js&logoColor=white" alt="An image of a half gray (left side) and half orange (right side) to indicate that this project was built using Node.Js"></a>
+  <a href="https://www.mongodb.com/" title="Go to MongoDB homepage"><img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="An image of a half gray (left side) and half orange (right side) to indicate that this project was built using MongoDB"></a>
+</p>
 
 Translations
 ---
@@ -97,7 +101,7 @@ Invite the Moogle Manager to your server!
 - `translate`: Translates texts using Google Translate API.
 <br /><br />
 
-# Contact & Business Inquiries
+# Contact
 ### **Learn more about me at:**
 - ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
 - 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
@@ -106,4 +110,4 @@ Invite the Moogle Manager to your server!
 - 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
 
 # License
-Copyright © Douglas Kitagawa's (dkitagawa's) Development - Licensed under [GNU General Public License v3.0](../../LICENSE.bib)
+Copyright © Douglas Kitagawa's (dkitagawa's) Development - Licensed under [GNU General Public License v3.0](./LICENSE.bib)

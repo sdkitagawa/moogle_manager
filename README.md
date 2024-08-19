@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="A white Moogle flying holding items on his left hand, and a letter and on his right hand DK and friends agenda. The Moogle is also wearing an ID that says Manager. He has blush on his cheeks and has an antenna with a red orb on top of his antenna." loading="lazy" />
 </p>
 
-<a href="information"><p align="center">App Information</p></a>
+<a href="#application-information"><p align="center">Application Information</p></a>
 <a href="#brief"><p align="center">Brief</p></a>
 <a href="#invite-to-your-server"><p align="center">Invite to Your Server</p></a>
 <a href="#technologies"><p align="center">Technologies</p></a>
@@ -32,13 +32,13 @@ Translations
 <summary>Also available in:</summary>
 
 - [English](./README.md)
-- [Spanish](docs/translations/README-es.md)
-- [Portuguese](docs/translations/README-pt-br.md)
-- [Japanese](docs/translations/README-jp.md)
+- [Spanish](./README-es.md)
+- [Portuguese](./README-pt-br.md)
+- [Japanese](./README-jp.md)
 </details>
 <br />
 
-## Information
+## Application Information
 - **Name**: [`Moogle Manager`**#1172**](https://discord.com/users/1221986587399815198/)
 - **Recommended Role Color**: `#F185B5`
 <br /><br />

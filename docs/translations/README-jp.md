@@ -1,25 +1,30 @@
-# Moogle マネージャ情報
+<h1 align="center">
+    モーグリマネージャ
+    <br />
+</h1>
 
 <p align=center>
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="白いムーグルが左手にアイテムを持って飛び、手紙と右手にDKと友人たちの議題を持っています。 Moogleもマネージャーと書かれたIDを身に着けています。 彼は頬を赤らめ、アンテナの上に赤い球体のアンテナを持っています。" loading="lazy" />
 </p>
-<br />
 
-<center>
+<a href="#アプリケーション情報"><p align="center">アプリケーション情報</p></a>
+<a href="#説明会"><p align="center">説明会</p></a>
+<a href="#サーバに招待します"><p align="center">サーバに招待します</p></a>
+<a href="#テクノロジ"><p align="center">テクノロジ</p></a>
+<a href="#依存関係"><p align="center">依存関係</p></a>
+<a href="#ボットコマンド"><p align="center">ボットコマンド</p></a>
+<a href="#連絡先"><p align="center">連絡先</p></a>
+<a href="#ライセンス"><p align="center">ライセンス</p></a>
 
-[アプリケーション情報](#アプリケーション情報)<br />
-[説明会](#説明会)<br />
-[サーバに招待します](#サーバに招待します)<br />
-[テクノロジ](#テクノロジ)<br />
-[依存関係](#依存関係)<br />
-[ボットコマンド](#ボットコマンド)<br />
-[連絡先およびビジネスに関するお問い合わせ](#連絡先およびビジネスに関するお問い合わせ)<br />
-<br />
-
-![Superando las Pruebas](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
-</center>
+<p align="center">
+  <a href="#" title="アプリケーションが動作しています"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="アプリケーションのビルドが終了していることを示す、半分の灰色（左側）と緑（右側）のイメージです"></a>
+  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="ライセンス"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667" alt="半分の灰色（左側）と半分のオレンジ（右側）の画像で、プロジェクトがどのライセンス下にあるかを示します"></a>
+  <a href="https://www.javascript.com/" title="JavaScript ホームページに移動します"><img src="https://img.shields.io/badge/Made_with-JavaScript-yellow?logo=javascript&logoColor=white" alt="このプロジェクトが JavaScript を使用して構築されたことを示す、半分のグレー（左側）と半分のオレンジ（右側）のイメージです"></a>
+  <a href="https://nodejs.org" title="Node.js ホームページに移動します"><img src="https://img.shields.io/badge/Node.js-%3E=18-green?logo=node.js&logoColor=white" alt="このプロジェクトが Node.Js を使用して構築されたことを示す、半分のグレー（左側）と半分のオレンジ（右側）のイメージです"></a>
+  <a href="https://www.mongodb.com/" title="MongoDB のホームページに移動します"><img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="このプロジェクトが MongoDB を使用して構築されたことを示す、半分のグレー (左側) と半分のオレンジ (右側) のイメージです"></a>
+</p>
 
 翻訳
 ---
@@ -68,7 +73,7 @@ Moogle Manager をサーバに招待します！
 
 # ボットコマンド
 
-### Administration
+### 管理します
 - `ban`: サーバからメンバーを禁止します。
 - `echo`: ボットを介してメッセージを送信します。
 - `kick`: サーバからメンバーをキックします。
@@ -76,14 +81,14 @@ Moogle Manager をサーバに招待します！
 - `embed-creator`: カスタム エンベデッドを作成します。
 - `field-embed`: フィールドと値を含むカスタム埋め込みを作成します。
 
-### Miscellaneous
+### その他
 > 次のコマンドは、**英語（北米）**および**ポルトガル語（ブラジル）の**多言語出力**をサポートします**.
 - `commands`: すべての Moogle Manager コマンドを表示します
 - `developer`: Moogle Manager Developer に関する情報を表示します。
 - `ping`: Discord Client と Discord の Websocket ping の現在の ping を確認します。
 - `server-info`: ギルド（サーバ）に関する情報を提供します。
 
-### Utilities
+### ユーティリティ
 > これらのコマンドは、**英語（北米）**および**ポルトガル語（ブラジル）**の**多言語出力**をサポートします。
 - `calculator`: 電卓のインターフェイスを起動します。
 - `furigana`: フリガナが何であるかを説明します。
@@ -96,7 +101,7 @@ Moogle Manager をサーバに招待します！
 - `translate`: Google Translate API を使用してテキストを変換します。
 <br /><br />
 
-# 連絡先およびビジネスに関するお問い合わせ
+# 連絡先
 ### **肉についてもっと知ることができます:**
 - ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
 - 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
@@ -104,5 +109,5 @@ Moogle Manager をサーバに招待します！
 - 📺 [**Youtube**](https://www.youtube.com/@dkitagawa)
 - 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
 
-# License
+# ライセンス
 Copyright © Douglas Kitagawa's (dkitagawa's) Development - [GNU General Public License v3.0](../../LICENSE.bib)でライセンスが付与されました

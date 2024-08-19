@@ -1,26 +1,30 @@
-# Moogle Manager
+<h1 align="center">
+    Moogle Manager
+    <br />
+</h1>
 
 <p align=center>
 <img src="https://i.imgur.com/zhNQNG8.png" width="250px" alt="Un Moogle blanco volador sostiene una carta en la mano izquierda y la agenda DK & Friends en la derecha. El Moogle también lleva una identificación que dice Gestor. Tiene las mejillas sonrojadas y una antena con un globo rojo en la parte superior." loading="lazy" />
 </p>
-<br />
 
-<center>
+<a href="#información-sobre-la-aplicación"><p align="center">Información sobre la Aplicación</p></a>
+<a href="#resumen"><p align="center">Resumen</p></a>
+<a href="#invite-a-su-servidor"><p align="center">Invite a su servidor</p></a>
+<a href="#tecnologías"><p align="center">Tecnologías</p></a>
+<a href="#dependencias"><p align="center">Dependencias</p></a>
+<a href="#comandos-bot"><p align="center">Comandos Bot</p></a>
+<a href="#contacto"><p align="center">Contacto</p></a>
+<a href="#licencia"><p align="center">Licensia</p></a>
 
-[Información sobre la Aplicación](#información-sobre-la-aplicación)<br />
-[Resumen](#resumen)<br />
-[Invite a su servidor](#invite-a-su-servidor)<br />
-[Tecnologías](#tecnologías)<br />
-[Dependencias](#dependencias)<br />
-[Comandos Bot](#comandos-bot)<br />
-[Contacto y Consultas Comerciales](#contacto-y-consultas-comerciales)<br />
-[Licensia](#licencia)<br />
-<br />
-
-![Superando las Pruebas](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667)
 <br /><br />
 
-</center>
+<p align="center">
+  <a href="#" title="Superando las Pruebas"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="An image of a half gray (left side) and green (right side) to indicate that the build of the application is passing"></a>
+  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="Licencia"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667" alt="Una imagen medio gris (lado izquierdo) y medio naranja (lado derecho) para indicar bajo qué licencia está el proyecto"></a>
+  <a href="https://www.javascript.com/" title="Ir a la página de inicio de JavaScript"><img src="https://img.shields.io/badge/Made_with-JavaScript-yellow?logo=javascript&logoColor=white" alt="Una imagen de un medio gris (lado izquierdo) y medio naranja (lado derecho) para indicar que este proyecto se construyó utilizando JavaScript."></a>
+  <a href="https://nodejs.org" title="Ir a la página principal de Node.js"><img src="https://img.shields.io/badge/Node.js-%3E=18-green?logo=node.js&logoColor=white" alt="Una imagen de un medio gris (lado izquierdo) y medio naranja (lado derecho) para indicar que este proyecto fue construido usando Node.Js"></a>
+  <a href="https://www.mongodb.com/" title="Ir a la página principal de MongoDB"><img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="Una imagen de un medio gris (lado izquierdo) y medio naranja (lado derecho) para indicar que este proyecto fue construido usando MongoDB"></a>
+</p>
 
 Traducciones
 ---
@@ -97,7 +101,7 @@ Invita a Moogle Manager a tu servidor
 - `translate`: Traduce textos utilizando la API de Google Translate.
 <br /><br />
 
-# Contacto y Consultas Comerciales
+# Contacto
 ### **Learn more about me at:**
 - ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
 - 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
