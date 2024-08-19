@@ -31,10 +31,10 @@ Translations
 <details>
 <summary>Also available in:</summary>
 
-- [English](./README.md)
-- [Spanish](./README-es.md)
-- [Portuguese](./README-pt-br.md)
-- [Japanese](./README-jp.md)
+- [English](./docs/translations/README.md)
+- [Spanish](./docs/translations/README-es.md)
+- [Portuguese](./docs/translations/README-pt-br.md)
+- [Japanese](./docs/translations/README-jp.md)
 </details>
 <br />
 
