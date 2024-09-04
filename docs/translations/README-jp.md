@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#" title="アプリケーションが動作しています"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="アプリケーションのビルドが終了していることを示す、半分の灰色（左側）と緑（右側）のイメージです"></a>
-  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="ライセンス"><img src="https://camo.githubusercontent.com/a40de0257320518fb90f63064c57e70bc026d492b258b4ea42ec58f1e5f2279c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f72617468656e612f72617468656e612e737667" alt="半分の灰色（左側）と半分のオレンジ（右側）の画像で、プロジェクトがどのライセンス下にあるかを示します"></a>
+  <a href="https://github.com/sdkitagawa/moogle_manager?tab=GPL-3.0-1-ov-file" title="ライセンス"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="半分の灰色（左側）と半分のオレンジ（右側）の画像で、プロジェクトがどのライセンス下にあるかを示します"></a>
   <a href="https://www.javascript.com/" title="JavaScript ホームページに移動します"><img src="https://img.shields.io/badge/Made_with-JavaScript-yellow?logo=javascript&logoColor=white" alt="このプロジェクトが JavaScript を使用して構築されたことを示す、半分のグレー（左側）と半分のオレンジ（右側）のイメージです"></a>
   <a href="https://nodejs.org" title="Node.js ホームページに移動します"><img src="https://img.shields.io/badge/Node.js-%3E=18-green?logo=node.js&logoColor=white" alt="このプロジェクトが Node.Js を使用して構築されたことを示す、半分のグレー（左側）と半分のオレンジ（右側）のイメージです"></a>
   <a href="https://www.mongodb.com/" title="MongoDB のホームページに移動します"><img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="このプロジェクトが MongoDB を使用して構築されたことを示す、半分のグレー (左側) と半分のオレンジ (右側) のイメージです"></a>
