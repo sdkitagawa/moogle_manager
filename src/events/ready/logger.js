@@ -18,6 +18,10 @@ module.exports = (client) => {
       name: "Lion Dance",
       type: ActivityType.Listening
     },
+    {
+      name: "-.-- --- ..- / .- .-. . / -. --- - / .- .-.. --- -. . -.-.--",
+      type: ActivityType.Listening
+    },
   ]
 
   console.log(`${client.user.tag} is online. ✅`);
