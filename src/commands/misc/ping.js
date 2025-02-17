@@ -1,18 +1,24 @@
+/**
+ * @author Douglas Kitagawa (sdkitagawa, dkitagawa)
+ * @file ping.js
+ * @param {Client} client
+ * @param {Interaction} interaction
+ */
 module.exports = {
-  name: 'ping',
-  description: 'Check the current ping of your Discord Client and Discord\'s Websocket ping.',
-  //devOnly: Boolean,
-  //testOnly: true,
-  //options: Object[],
-  //deleted: true,
+    name: 'ping',
+    description: 'Checks the current ping of your Discord Client and Discord\'s Websocket ping.',
+    //devOnly: Boolean,
+    //testOnly: Boolean,
+    //deleted: true,
+    //options: Object[],
 
-  callback: async (client, interaction) => {
-    await interaction.deferReply();
-    
-    const reply = await interaction.fetchReply();
+    callback: async (client, interaction) => {
+        await interaction.deferReply();
 
-    const ping = reply.createdTimestamp - interaction.createdTimestamp;
+        const reply = await interaction.fetchReply();
 
-    interaction.editReply(`# Pong ～\n\n**Client Ping**: ${ping}ms \`|\` **Websocket Ping**: ${client.ws.ping}ms`);
-  },
+        const ping = reply.createdTimestamp - interaction.createdTimestamp;
+
+      interaction.editReply(`# Pong ～\n\n**Client Ping**: ${ping}ms \`|\` **Websocket Ping**: ${client.ws.ping}ms`);
+    }
 };
