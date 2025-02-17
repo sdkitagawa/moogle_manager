@@ -8,6 +8,34 @@ const { Client, Interaction, ApplicationCommandOptionType, PermissionFlagsBits }
 const ms = require('ms');
 
 module.exports = {
+    name: 'timeout',
+    description: 'Mutes a member of the server.【Moderation Command】',
+    //devOnly: Boolean,
+    //testOnly: Boolean,
+    //deleted: true,
+    options: [
+        {
+            name: 'target_user',
+            description: 'The user you want to timeout.',
+            type: ApplicationCommandOptionType.Mentionable,
+            required: true
+        },
+        {
+            name: 'duration',
+            description: 'Timeout duration (30m, 1h, 1d).',
+            type: ApplicationCommandOptionType.String,
+            required: true
+        },
+        {
+            name: 'reason',
+            description: 'The reason for the timeout.',
+            type: ApplicationCommandOptionType.String,
+            required: false,
+        }
+    ],
+    permissionsRequired: [PermissionFlagsBits.MuteMembers],
+    botPermissions: [PermissionFlagsBits.MuteMembers],
+
     callback: async (client, interaction) => {
         const mentionable = interaction.options.get('target_user').value;
         const duration = interaction.options.get('duration').value;
@@ -43,15 +71,15 @@ module.exports = {
         const requestUserRolePosition = interaction.member.roles.highest.position;
         // Highest role of the Bot
         const botRolePosition = interaction.guild.members.me.roles.highest.position;
-  
+
         if (targetUserRolePosition >= requestUserRolePosition) {
-          await interaction.editReply("**You cannot timeout that user because they have the same (or a higher) role than you.**");
-          return;
+            await interaction.editReply("**You cannot timeout that user because they have the same (or a higher) role than you.**");
+            return;
         }
-  
+
         if (targetUserRolePosition >= botRolePosition) {
-          await interaction.editReply("**I cannot timeout that user because they have the same (or a higher) role than me.**");
-          return;
+            await interaction.editReply("**I cannot timeout that user because they have the same (or a higher) role than me.**");
+            return;
         }
 
         // Timeout the User
@@ -70,29 +98,5 @@ module.exports = {
         } catch (error) {
             console.log(`There was an error when timing out: ${error}`);
         }
-    },
-
-    name: 'timeout',
-    description: 'Timeout a user.',
-    options: [
-        {
-            name: 'target_user',
-            description: 'The user you want to timeout.',
-            type: ApplicationCommandOptionType.Mentionable,
-            required: true
-        },
-        {
-            name: 'duration',
-            description: 'Timeout duration (30m, 1h, 1d).',
-            type: ApplicationCommandOptionType.String,
-            required: true
-        },
-        {
-            name: 'reason',
-            description: 'The reason for the timeout.',
-            type: ApplicationCommandOptionType.String,
-        }
-    ],
-    permissionsRequired: [PermissionFlagsBits.MuteMembers],
-    botPermissions: [PermissionFlagsBits.MuteMembers]
+    }
 }

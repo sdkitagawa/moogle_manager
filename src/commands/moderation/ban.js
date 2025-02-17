@@ -12,6 +12,28 @@ const {
 } = require('discord.js');
 
 module.exports = {
+    name: 'ban',
+    description: 'Bans a member of the server.【Administration Command】',
+    //devOnly: Boolean,
+    //testOnly: Boolean,
+    //deleted: true,
+    options: [
+        {
+            name: 'target_user',
+            description: 'The user that you want to ban.',
+            type: ApplicationCommandOptionType.Mentionable,
+            required: true,
+        },
+        {
+            name: 'reason',
+            description: 'The reason why this member is being banned.',
+            type: ApplicationCommandOptionType.String,
+            required: false,
+        },
+      ],
+    permissionsRequired: [PermissionFlagsBits.BanMembers],
+    botPermissions: [PermissionFlagsBits.BanMembers],
+
     callback: async (client, interaction) => {
       const targetUserId = interaction.options.get('target_user').value;
       const reason = interaction.options.get('reason')?.value || "No reason provided";
@@ -54,26 +76,5 @@ module.exports = {
       } catch (error) {
         console.log(`There was an error when banning: ${error}`);
       }
-  },
-
-  name: 'ban',
-  description: 'Bans a member from the server.',
-  //deleted: true,
-  //devOnly: Boolean,
-  //testOnly: Boolean,
-  options: [
-    {
-      name: 'target_user',
-      description: 'The user that you want to ban.',
-      type: ApplicationCommandOptionType.Mentionable,
-      required: true,
-    },
-    {
-      name: 'reason',
-      description: 'The reason why this member is being banned.',
-      type: ApplicationCommandOptionType.String,
-    },
-  ],
-  permissionsRequired: [PermissionFlagsBits.BanMembers],
-  botPermissions: [PermissionFlagsBits.BanMembers],
+  }
 };
