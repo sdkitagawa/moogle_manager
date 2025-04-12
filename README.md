@@ -52,7 +52,7 @@ Translations
 ## Invite to your server
 Invite the Moogle Manager to your server!
 
-**Invitation Link**: https://discord.com/oauth2/authorize?client_id=1270239316651675690
+**Invitation Link**: https://discord.com/oauth2/authorize?client_id=1280083559326941184
 <br /><br />
 
 # Technologies
