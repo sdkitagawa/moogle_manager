@@ -103,8 +103,7 @@ Invite the Moogle Manager to your server!
 
 # Contact
 ### **Learn more about me at:**
-- ⚡ [**LinkedIn**](https://linkedin.com/in/douglas-kitagawa/)
-- 📫 [**E-mail**](mailto:douglaskitagawa@proton.me)
+- 📫 [**E-mail**](mailto:sdkitagawa@gmail.com)
 - 👨🏻‍💻 [**Github**](https://github.com/sdkitagawa)
 - 📺 [**Youtube**](https://www.youtube.com/@dkitagawa)
 - 📺 [**Twitch**](https://www.twitch.tv/kitbitdots)
